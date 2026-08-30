@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033140815570",
+    "project_id": "bingoc",
+    "storage_bucket": "bingoc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033140815570:android:3f331bb8344c2c34124f0b",
+        "android_client_info": {
+          "package_name": "com.bingo.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBMMR_ZyCUM-5yNIGQ_ceVNdNm8Z-nZXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
